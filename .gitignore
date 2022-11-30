@@ -5,4 +5,4 @@ venv
 __pycache__
 .env
 .vscode/
-db.sqlite
+db.sqlite3
